@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <p> Welcome to my respository! Here you'll find some interesting projects I've been working on. 👨‍💻 </p>
   </section>
   <article>
+    <section>
       <p> I'm glad to meet you here, let me introduce myself, my name is Eduardo and I'm currently studying a master's degree in Software Development and Information Systems. I am an enthusiastic learner and I truly believe that every goal can be achieved by focus, discipline and passion. </p>
       <h2 align="center">Some things about me </h2>
       <ul>
@@ -35,9 +36,11 @@ Here are some ideas to get you started:
 🌌[...] For my ally is the force, and a powerful ally it is.
             </li>
       </ul>
+    </section>
   </article>
-  <article>
-<h3 align="center">Here are some technologies I am familiar with </h3>
+<article>
+  <section>
+      <h3 align="center">Here are some technologies I am familiar with </h3>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -64,5 +67,6 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
+</section>
 </article>
-  
+
