@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner](https://github.com/EduardoArellano97/EduardoArellano97/assets/138718970/9da9bf65-7e3b-4e88-a7f4-0678415d3ed8)
+<section>
+    ![Banner](https://github.com/EduardoArellano97/EduardoArellano97/assets/138718970/48c6dcc9-9a77-4210-b8e5-83d90a9c4847)
+  <h1>About me:</h1>
+</section>
